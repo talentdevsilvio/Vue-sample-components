@@ -1,0 +1,39 @@
+#
+# FONT-SIZE TOKENS
+# Use these tokens to set a font-size.
+#
+
+props:
+  button_size_l:
+    value: "14px"
+  button_size_m:
+    value: "12px"
+  button_size_s:
+    value: "10px"
+  heading_size_xxl:
+    value: "48px"
+  heading_size_xl:
+    value: "32px"
+  heading_size_l:
+    value: "24px"
+  heading_size_m:
+    value: "16px"
+  heading_size_s:
+    value: "12px"
+  size_xxxl:
+    value: "64px"
+  size_xxl:
+    value: "48px"
+  size_xl:
+    value: "32px"
+  size_l:
+    value: "18px"
+  size_m:
+    value: "14px"
+  size_s:
+    value: "13px"
+  size_xs:
+    value: "11px"
+global:
+  type: number
+  category: font-size
